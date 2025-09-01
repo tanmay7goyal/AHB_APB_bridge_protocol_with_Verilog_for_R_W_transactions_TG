@@ -1,0 +1,2 @@
+# AHB_APB_bridge_protocol_with_Verilog_for_R_W_transactions_TG
+This project implements an AHB-APB bridge in Verilog HDL to enable read/write transactions between high-speed AHB devices and slower APB peripherals. It includes an AHB Slave interface for signal pipelining and an FSM-based APB controller for managing data flow. The design was verified using ModelSim with testbenches for functional validation.
